@@ -10,9 +10,6 @@ Backend Developer
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly planning to create Skynet
 
-### Badges
-
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/pedlord"><img src="https://github-readme-stats.vercel.app/api?username=pedlord&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pedlord's GitHub stats" /></a>
 
