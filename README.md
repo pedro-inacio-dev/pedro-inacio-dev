@@ -4,8 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
+* 🌍  I'm based in Belém, PA, Brazil
 * ✉️  You can contact me at [pedroinacio1939@gmail.com](mailto:pedroinacio1939@gmail.com)
 * 🧠  I'm learning HTML, CSS, Javascript and PostgreSQL
+* 🤝  I'm open to collaborating on interesting projects
+* ⚡  I'm secretly planning to create Skynet
 
 ### Skills
 
@@ -28,15 +31,13 @@ Backend Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/pedlord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/pedlord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ped_lord" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pedro-inácio-366a1823b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/pedlord"><img src="https://github-readme-stats.vercel.app/api?username=pedlord&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pedlord's GitHub stats" /></a>
+<a href="http://www.github.com/pedlord"><img src="https://github-readme-stats.vercel.app/api?username=pedlord&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pedlord's GitHub stats" /></a>
 
-<a href="http://www.github.com/pedlord"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedlord&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/pedlord"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedlord&stroke=3382ed&background=1c1917&ring=f97316&fire=f97316&currStreakNum=3382ed&currStreakLabel=f97316&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="http://www.github.com/pedlord"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=pedlord&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/pedlord" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedlord&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/pedlord" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedlord&langs_count=10&title_color=f97316&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
