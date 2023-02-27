@@ -10,16 +10,15 @@ Backend Developer
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly planning to create Skynet
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=codeSTACKr)
 
 <p align="left">
 <a href="http://www.github.com/pedlord"><img src="https://github-readme-stats.vercel.app/api?username=pedlord&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pedlord's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/pedlord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedlord&layout=compact&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](https://github.com/pedlord)
 
+<!--
 <a href="https://github.com/pedlord" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedlord&langs_count=10&title_color=f97316&text_color=3382ed&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
+-->
 </p>
 
 ### Skills
