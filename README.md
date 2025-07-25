@@ -11,23 +11,31 @@ Full-Stack Developer
 * ⚡  I'm secretly planning to create Skynet
 
 
-     
- <a href="http://www.github.com/pedlord">
-   <img
-     align="center"
-     height="200"
-     src="https://github-readme-stats.vercel.app/api?username=pedlord&show_icons=true&hide=&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=My%20Programming%20Stats" 
-     alt="pedlord's GitHub stats" />
- </a>
 
- <a href="http://www.github.com/pedlord">
-   <img 
-     align="center" 
-     height="196"
-     width="450"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedlord&layout=compact&show_icons=true&hide&show_icons=true&card_width=330px&theme=vision-friendly-dark&custom_title=I've%20worked%20with" 
-     alt="pedlord's most used languages" />
- </a>
+<table>
+     <tr>
+          <td>
+           <a href="http://www.github.com/pedlord">
+             <img
+               align="center"
+               height="200"
+               src="https://github-readme-stats.vercel.app/api?username=pedlord&show_icons=true&hide=&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=My%20Programming%20Stats" 
+               alt="pedlord's GitHub stats" />
+           </a>
+          </td>
+          <td>
+           <a href="http://www.github.com/pedlord">
+             <img 
+               align="center" 
+               height="196"
+               width="390"
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedlord&layout=compact&show_icons=true&hide&show_icons=true&card_width=330px&theme=vision-friendly-dark&custom_title=I've%20worked%20with" 
+               alt="pedlord's most used languages" />
+           </a>
+          </td>
+     </tr>
+</table>
+
 
 
  Skills
