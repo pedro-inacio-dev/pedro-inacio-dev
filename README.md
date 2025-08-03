@@ -8,29 +8,29 @@ Full-Stack Developer
 * ✉️  You can contact me at [pedroinacio1939@gmail.com](mailto:pedroinacio1939@gmail.com)
 * 🧠  I'm learning .NET and Vue.js
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm secretly planning to create Skynet
+* ⚡  I love history
 
 
 
 <table>
      <tr>
           <td>
-           <a href="http://www.github.com/pedlord">
+           <a href="http://www.github.com/pedro-inacio-dev">
              <img
                align="center"
                height="200"
-               src="https://github-readme-stats.vercel.app/api?username=pedlord&show_icons=true&hide=&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=My%20Programming%20Stats" 
-               alt="pedlord's GitHub stats" />
+               src="https://github-readme-stats.vercel.app/api?username=pedro-inacio-dev&show_icons=true&hide=&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=My%20Programming%20Stats" 
+               alt="Pedro's GitHub stats" />
            </a>
           </td>
           <td>
-           <a href="http://www.github.com/pedlord">
+           <a href="http://www.github.com/pedro-inacio-dev">
              <img 
                align="center" 
                height="196"
                width="390"
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedlord&layout=compact&show_icons=true&hide&show_icons=true&card_width=330px&theme=vision-friendly-dark&custom_title=I've%20worked%20with" 
-               alt="pedlord's most used languages" />
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-inacio-dev&layout=compact&show_icons=true&hide&show_icons=true&card_width=330px&theme=vision-friendly-dark&custom_title=I've%20worked%20with" 
+               alt="Pedro's most used languages" />
            </a>
           </td>
      </tr>
