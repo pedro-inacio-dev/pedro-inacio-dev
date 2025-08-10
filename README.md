@@ -20,12 +20,15 @@ Full-Stack Developer
   -->
      <a href="https://github.com/pedro-inacio-dev">
          <img 
-          align="center" 
+          align="left" 
           height="200"
           width="392" 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-inacio-dev&layout=compact&theme=vision-friendly-dark&custom_title=I've%20worked%20with&card_width=330&hide_border=true" height="200" alt="langs" />
   </a>
 </p>
+
+<br clear="all" />
+
 
  Skills
 -----------------
