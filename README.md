@@ -10,33 +10,22 @@ Full-Stack Developer
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I love history
 
-
-
-<table>
-     <tr>
-          <td>
-           <a href="http://www.github.com/pedro-inacio-dev">
-             <img
-               align="center"
-               height="200"
-               src="https://github-readme-stats.vercel.app/api?username=pedro-inacio-dev&show_icons=true&hide=&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&custom_title=My%20Programming%20Stats" 
-               alt="Pedro's GitHub stats" />
-           </a>
-          </td>
-          <td>
-           <a href="http://www.github.com/pedro-inacio-dev">
-             <img 
-               align="center" 
-               height="196"
-               width="390"
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-inacio-dev&layout=compact&show_icons=true&hide&show_icons=true&card_width=330px&theme=vision-friendly-dark&custom_title=I've%20worked%20with" 
-               alt="Pedro's most used languages" />
-           </a>
-          </td>
-     </tr>
-</table>
-
-
+<p align="center">
+  <a href="https://github.com/pedro-inacio-dev">
+    <img
+     align="left"
+     height="200"
+     src="https://github-readme-stats.vercel.app/api?username=pedro-inacio-dev&theme=vision-friendly-dark&include_all_commits=true&custom_title=My%20Programming%20Stats&hide_border=true" height="200" alt="stats" />
+  </a><!--
+  -->
+     <a href="https://github.com/pedro-inacio-dev">
+         <img 
+          align="center" 
+          height="200"
+          width="392" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-inacio-dev&layout=compact&theme=vision-friendly-dark&custom_title=I've%20worked%20with&card_width=330&hide_border=true" height="200" alt="langs" />
+  </a>
+</p>
 
  Skills
 -----------------
